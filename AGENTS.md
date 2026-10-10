@@ -4,7 +4,7 @@
 
 ## Overview
 
-React 19 + TypeScript + Vite + Ant Design 6 template. TanStack Query for server state, React Router 7, Vitest + React Testing Library + MSW, Playwright, ESLint, Prettier, Husky. Follows the [engineering handbook](https://github.com/alonsovndev/engineering-handbook) (frontend, testing, and git sections). Deployment profile: TBD per project (see `docs/deployment.md`).
+React 19 + TypeScript + Vite + Ant Design 6 template. TanStack Query for server state, React Router 7, Vitest + React Testing Library + MSW, Playwright, ESLint, Prettier, Husky. Follows the [engineering handbook](https://github.com/alonsovndev/engineering-handbook) (frontend, testing, and git sections). Deployment profile: chosen per project (see `docs/deployment.md`).
 
 ## Commands
 
